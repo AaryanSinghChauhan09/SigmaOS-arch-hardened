@@ -1,4 +1,4 @@
-//! SigmaOS-arch-hardened — arch-hardened component
+//! SigmaOS-hardened — hardened component
 //!
 //! Part of the SigmaOS multi-repository component ecosystem. This crate
 //! declares its interface in `COMPONENT.toml` (`provides` / `depends_on`).

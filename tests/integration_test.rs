@@ -1,4 +1,4 @@
-use arch_hardened::Component;
+use sigmaos_hardened::Component;
 
 #[test]
 fn test_component_new_aaa() {

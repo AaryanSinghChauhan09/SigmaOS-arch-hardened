@@ -1,4 +1,4 @@
-# SigmaOS-arch-hardened
+# SigmaOS-hardened
 
 GitHub description is a placeholder; component scope remains unclassified.
 
